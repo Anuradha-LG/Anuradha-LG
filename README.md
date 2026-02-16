@@ -1,11 +1,14 @@
-Hi 👋 I'm Anuradha Lakshitha
+## Hi 👋 I'm Anuradha Lakshitha
 
-🎓 MIS undergraduate passionate about Business Analysis and aligning technology with business goals.
+🎓 Management Information Systems (MIS) undergraduate with a strong focus on **Business Analysis** and aligning technology solutions with business objectives.
 
-💼 Aspiring Business Analyst skilled in requirement gathering, stakeholder communication, and translating business needs into functional solutions.
+💼 Aspiring Business Analyst with hands-on experience in requirement gathering, stakeholder communication, and translating business needs into clear functional requirements.
 
-📊 Experienced in business process analysis, documentation, and creating artifacts like wireframes, use case diagrams, and process flows.
+📊 Skilled in business process analysis, requirement documentation, and creating artifacts such as wireframes, use case diagrams, activity diagrams, and process flow models to support system development.
 
-🤝 Strong collaborator with development teams to deliver practical, value-driven solutions.
+🤝 Experienced in collaborating with development teams and understanding customer needs to propose practical and value-driven solutions.
 
-🧠 Analytical, problem-solving, and continuously learning modern BA tools and technologies through real-world projects.
+🧠 Strong analytical thinking, problem-solving ability, and logical decision-making skills with a structured approach to analysis.
+
+🚀 Continuously learning modern business analysis practices, tools, and technologies while building real-world projects in system development and web applications.
+
