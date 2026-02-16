@@ -12,10 +12,10 @@ Hi 👋 I'm Anuradha Lakshitha
 
 💻 Technical Skills (Basic Knowledge)
 
-Excel – data analysis and reporting
+    - Excel – Data analysis and reporting
 
-Power BI – creating visual dashboards and insights
+    - Power BI – Creating visual dashboards and insights
 
-SQL – querying and managing databases
+    - SQL – Querying and managing databases
 
 🚀 Continuously learning modern business analysis practices, tools, and technologies while building real-world projects in system development and web applications.
