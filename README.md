@@ -17,8 +17,6 @@ Bridging the gap between software development, Agile project management, and dat
 
 ---
 
-Sample business requirements documents for real-world projects.
-
 ## 🏆 Featured Case Studies & Projects
 
 ### 1. FixOnGo: Mechanic Real-Time Module
