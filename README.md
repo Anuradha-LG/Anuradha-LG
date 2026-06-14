@@ -16,7 +16,17 @@ Bridging the gap between software development, Agile project management, and dat
   * *Highlights:* Maintained enterprise-grade version control and repository stability, notably managing critical branch restorations (e.g., standardizing production to the `release-stable-v1.2` branch) to ensure seamless deployment cycles.
 
 ---
+📂 Business Analyst Models and Diagrams
+BPMN diagrams, workflows, and BRDs showcasing process analysis and improvement.
 
+📂 Data Analyst Projects
+SQL queries, Excel dashboards, and case studies highlighting churn analysis and insights.
+
+📂 Business Intelligence Dashboards
+Power BI dashboards for HR, sales performance, and financial reporting.
+
+📂 Requirements Documentation Examples
+Sample business requirements documents for real-world projects.
 ## 🏆 Featured Case Studies & Projects
 
 ### 1. FixOnGo: Mechanic Real-Time Module
